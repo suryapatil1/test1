@@ -3,5 +3,7 @@ class A {
      System.out.println("Hello World india");
   
   System.out.println("welcome to USA");
+
+  System.out.println("welcome to london");
  }
 }
