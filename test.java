@@ -5,5 +5,7 @@ class A {
   System.out.println("welcome to USA");
 
   System.out.println("welcome to london");
+
+System.out.println("welcome to london");
  }
 }
